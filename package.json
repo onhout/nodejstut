@@ -1,0 +1,24 @@
+{
+  "name": "EXAMPLEAPP",
+  "version": "0.0.1",
+  "description": "Nodeapp Example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/onhout/nodejsEx"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Peter",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/onhout/nodejsEx/issues"
+  },
+  "dependencies": {
+    "colors": "~1.0.3"
+  }
+}
